@@ -1,1 +1,1 @@
-export const domain = "https://ntnews.chavellenge.com";
+export const domain = "https://ntnews.boonovel.com";
